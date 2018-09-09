@@ -3,7 +3,7 @@ package com.dragos.assigments;
 import java.util.Arrays;
 
 public class Assigments2 {
-	
+	//my mouse is awesome
 public static void main(String[] args) {
 		
 		int test[] = {11,3,5,21,4,9,63,2};
