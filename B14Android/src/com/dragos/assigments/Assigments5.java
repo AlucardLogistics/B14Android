@@ -6,8 +6,11 @@ public class Assigments5 {
 		
 		static int[][] arr1 = {{1,2,3}, {4,5,6}, {7,8,9}};
 		static int[][] arr2 = {{1,1,1}, {3,2,1}, {7,2,4}};
-		
 
+		/*
+		 * NinnYu's Review
+		 * Works well. Good. 
+		 */
 		public static void main(String[] args) {
 			
 			System.out.println("Print the sum of arr1 and arr2: ");		
